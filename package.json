@@ -1,7 +1,7 @@
 {
-  "name": "cli-fuzzy-search",
+  "name": "cli-fuzzy-search-since24",
   "description": "CLI library to provide a fuzzy search box with suggestions",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "lib/main.js",
   "repository": "git@github.com:naholyr/cli-fuzzy-search.git",
   "author": "Nicolas Chambrier <naholyr@gmail.com> (http://naholyr.fr/)",
